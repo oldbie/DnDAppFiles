@@ -24,7 +24,7 @@
 			<text></text>
 			<text>Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost</text>
 			<text></text>
-			<text>1st level {4 slots): alarm*, mage armor, magic missile, shield*</text>
+			<text>1st level (4 slots): alarm*, mage armor, magic missile, shield*</text>
 			<text></text>
 			<text>2nd level (3 slots): arcane lock*, invisibility</text>
 			<text></text>
@@ -5593,14 +5593,6 @@
 		<trait>
 			<name>Plant Camouflage </name>
 			<text>The vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.</text>
-		</trait>
-		<trait>
-			<name>Plant Camouflage </name>
-			<text>The vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.</text>
-		</trait>
-		<trait>
-			<name>Regeneration</name>
-			<text>The vegepygmy regains 3 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn&#8217;t function at the start of the vegepygmy&#8217;s next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn&#8217;t regenerate.</text>
 		</trait>
 		<trait>
 			<name>Regeneration</name>
